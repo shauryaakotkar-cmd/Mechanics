@@ -12,4 +12,4 @@ We can start with "Introductions to Classical Mechanics" by David Morins, coordi
 respective MIT's 8.01SC, 8.223 and 8.09 (might not at par). This is not a course not even a handout/tutor stuff, it is to showcase some cumbersome yet good way to
 relocate and examine (or just study) this field. What I will deliberately try to do is to SOLVE and UNDERSTAND, in that order or actually enmashed way. 
 The following would be the stuff:\\
-[Statics with a mind blowing problem](Act 1.pdf)
+[Statics with a mind blowing problem](./main(3).pdf)
