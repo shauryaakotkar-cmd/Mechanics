@@ -1,4 +1,4 @@
-# Mechanics
+# Mechanics [Before exploring this wide range of curated and non-routine problems, I have the fundamental conceptual framework to deal with. It is from the Morin's itself, Taylor's mechanics and directed books of Physics Galaxy (for JEE)]
 Mechanics is one of the most important section of Physics. Not only on the High-School benchmark, but can also be a pinnacle for Years of Mastey.
 Exposition and extensive findings in this field is assumed to be exhausted, or predictable due to groundbreaking work from scientists, making a fundamental
 curation of almost every classicaly attained experience. In fact, the Quntum Mechanics is usually dealt significantly due to it's usage and extensive application
@@ -12,4 +12,6 @@ We can start with "Introductions to Classical Mechanics" by David Morins, coordi
 respective MIT's 8.01SC, 8.223 and 8.09 (might not at par). This is not a course not even a handout/tutor stuff, it is to showcase some cumbersome yet good way to
 relocate and examine (or just study) this field. What I will deliberately try to do is to SOLVE and UNDERSTAND, in that order or actually enmashed way. 
 The following would be the stuff that I do for studying and starting a little better:
+
 -[Statics with a mind blowing problem](./main(3).pdf)
+
