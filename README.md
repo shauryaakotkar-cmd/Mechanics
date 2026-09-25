@@ -1,4 +1,4 @@
-# Mechanics [Before exploring this wide range of curated and non-routine problems, I have the fundamental conceptual framework to deal with. It is from the Morin's itself, Taylor's mechanics and directed books of Physics Galaxy]
+# Mechanics [Before exploring this wide range of curated and non-routine problems, the fundamental conceptual framework should be build. It can be from the Morin's itself, Taylor mechanics, directed books of Physics Galaxy, or a few other great ones]
 Mechanics is one of the most important section of Physics. Not only on the High-School benchmark, but can also be a pinnacle for Years of Mastey.
 Exposition and extensive findings in this field is assumed to be exhausted, or predictable due to groundbreaking work from scientists, making a fundamental
 curation of almost every classicaly attained experience. In fact, the Quntum Mechanics is usually dealt significantly due to it's usage and extensive application
